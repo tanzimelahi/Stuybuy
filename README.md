@@ -13,4 +13,4 @@ knobnameTValueSsecond_knobnameTvalue.....
 For example if the knobnames are bigenetar and cake bigenetar:10 and cake:15, they have to be written as:
 bigenetarT10ScakeT15
 capital T and S are reserved letters and must not be used when naming knobs.
-only tween command can be used in a single mdl script.
+only one tween command can be used in a single mdl script.
