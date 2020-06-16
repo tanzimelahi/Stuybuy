@@ -1,4 +1,5 @@
 # Stuybuy
+Tanzim Elahi, pd:5
 features: light and tween.
 instructions:
 multiple lights can be used in an mdl script:
